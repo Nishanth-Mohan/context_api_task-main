@@ -1,0 +1,40 @@
+/* Style for card component */
+#card-w {
+    border: 1px solid #4f4b4b;
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  
+  .stock {
+    color: green;
+  }
+  
+  .quantity-btn {
+    background-color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+  }
+  
+  .quantity-btn:hover {
+    background-color: #ddd;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border: none;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+  }
+ 
